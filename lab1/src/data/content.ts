@@ -1,7 +1,7 @@
 import type { ImageSourcePropType } from 'react-native';
 
-// Новини та фото взято з сайту університету (ztu.edu.ua, news.ztu.edu.ua)
-// і покладено в assets, щоб застосунок працював без інтернету.
+//
+//
 
 export interface NewsItem {
   id: string;

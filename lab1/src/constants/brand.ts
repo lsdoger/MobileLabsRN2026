@@ -1,4 +1,4 @@
-// Кольори бренд-системи «Житомирської політехніки» (https://media.ztu.edu.ua/)
+//
 export const Brand = {
   blue: '#1F4B99',
   blueDark: '#163A78',
