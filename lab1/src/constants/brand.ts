@@ -16,6 +16,6 @@ export const Brand = {
 export const Student = {
   fullName: 'Прудніков О.О.',
   short: 'Прудніков О.О., ІПЗ-24-5',
-  email: '',
+  email: 'ipz245_poo@student.ztu.edu.ua',
   group: 'ІПЗ-24-5',
 };
